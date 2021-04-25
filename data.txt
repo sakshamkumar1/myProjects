@@ -1,0 +1,6 @@
+# Important: This file <data.txt> is important for the smooth functioning of the Python code. 
+# Please keep this in the same directory as that of code. This file provides values of various required parameters to the Python code.
+# Units have to be like this: Ef1,Ef2,Gf,Em,Gm are in GPa. t is the total thickness in mm. 
+# Write layup sequence from z0 to zn by putting commas between each value.
+#	Ef1	Ef2	nu_f	Gf	Em	nu_m	Vf	layers	t	layup	
+Mat.1	72.4	72.4	0.2	30.2	3.45	0.35	0.54	8	1	0,44,-44,90,90,-44,44,0
